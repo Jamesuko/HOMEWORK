@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="colors" >
+        <item>RED</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+        <item>BLACK</item>
+        <item>WHITE</item>
+        <item>GREY</item>
+        <item>CYAN</item>
+        <item>MAGENTA</item>
+        <item>YELLOW</item>
+    </string-array>
+</resources>
